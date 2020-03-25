@@ -1,5 +1,5 @@
 ---
-title: 登录与注册
+title: 登录和注册
 header: introduction
 nav: book
 sidebar: enter_application
